@@ -1,0 +1,10 @@
+Part III
+
+The final round is here, and, as expected, it is the most challenging of all! Although no new enemies have appeared, they have grown wiser and realized their strength in numbers.
+In this ultimate challenge, you will not just face pairs, but also groups of three! For these tough battles, you will need 2 extra potions per creature compared to fighting them one-on-one.
+Example based on the following notes:
+xBxAAABCDxCC
+Once the battles are split into their respective groups, they will unfold as follows:
+xBx AAA BCD xCC
+In total, you must order: 1 + 6 + 15 + 8 = 30 potions.
+What is the exact number of potions you need to order for the final round?
